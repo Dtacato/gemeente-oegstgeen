@@ -97,11 +97,11 @@
         "font-family": {
           "default": {
             "$type": "fontFamilies",
-            "$value": "IBM Plex Sans, sans-serif"
+            "$value": "Lato"
           },
           "monospace": {
             "$type": "fontFamilies",
-            "$value": "IBM Plex Mono, monospace"
+            "$value": "Lato"
           }
         },
         "font-weight": {
@@ -241,59 +241,59 @@
         "accent-1": {
           "bg-document": {
             "$type": "color",
-            "$value": "#FBFCFD"
+            "$value": "{geel.10}"
           },
           "bg-subtle": {
             "$type": "color",
-            "$value": "#F4F7FA"
+            "$value": "{geel.20}"
           },
           "bg-default": {
             "$type": "color",
-            "$value": "#ECF1F7"
+            "$value": "{geel.40}"
           },
           "bg-hover": {
             "$type": "color",
-            "$value": "#E4ECF4"
+            "$value": "{geel.20}"
           },
           "bg-active": {
             "$type": "color",
-            "$value": "#DDE6F1"
+            "$value": "{geel.30}"
           },
           "border-subtle": {
             "$type": "color",
-            "$value": "#B0C6DF"
+            "$value": "{geel.30}"
           },
           "border-default": {
             "$type": "color",
-            "$value": "#5C89BE"
+            "$value": "{geel.40}"
           },
           "border-hover": {
             "$type": "color",
-            "$value": "#4E7FB8"
+            "$value": "{geel.50}"
           },
           "border-active": {
             "$type": "color",
-            "$value": "#3F74B2"
+            "$value": "{geel.60}"
           },
           "color-default": {
             "$type": "color",
-            "$value": "#1B59A4"
+            "$value": "{geel.40}"
           },
           "color-hover": {
             "$type": "color",
-            "$value": "#04499A"
+            "$value": "{geel.50}"
           },
           "color-active": {
             "$type": "color",
-            "$value": "#003B81"
+            "$value": "{geel.60}"
           },
           "color-subtle": {
             "$type": "color",
-            "$value": "#2964AA"
+            "$value": "{geel.30}"
           },
           "color-document": {
             "$type": "color",
-            "$value": "#001B3C"
+            "$value": "{geel.70}"
           }
         },
         "accent-2": {
@@ -473,59 +473,59 @@
         "action-2": {
           "bg-document": {
             "$type": "color",
-            "$value": "{basis.color.accent-1.bg-document}"
+            "$value": "{groen.10}"
           },
           "bg-subtle": {
             "$type": "color",
-            "$value": "{basis.color.accent-1.bg-subtle}"
+            "$value": "{groen.20}"
           },
           "bg-default": {
             "$type": "color",
-            "$value": "{basis.color.accent-1.bg-default}"
+            "$value": "{groen.40}"
           },
           "bg-hover": {
             "$type": "color",
-            "$value": "{basis.color.accent-1.bg-hover}"
+            "$value": "{groen.50}"
           },
           "bg-active": {
             "$type": "color",
-            "$value": "{basis.color.accent-1.bg-active}"
+            "$value": "{groen.60}"
           },
           "border-subtle": {
             "$type": "color",
-            "$value": "{basis.color.accent-1.border-subtle}"
+            "$value": "{groen.30}"
           },
           "border-default": {
             "$type": "color",
-            "$value": "{basis.color.accent-1.border-default}"
+            "$value": "{groen.40}"
           },
           "border-hover": {
             "$type": "color",
-            "$value": "{basis.color.accent-1.border-hover}"
+            "$value": "{groen.50}"
           },
           "border-active": {
             "$type": "color",
-            "$value": "{basis.color.accent-1.border-active}"
+            "$value": "{groen.60}"
           },
           "color-default": {
             "$type": "color",
-            "$value": "{basis.color.accent-1.color-default}"
+            "$value": "{groen.40}"
           },
           "color-hover": {
             "$type": "color",
-            "$value": "{basis.color.accent-1.color-hover}"
+            "$value": "{groen.50}"
           },
           "color-active": {
             "$type": "color",
-            "$value": "{basis.color.accent-1.color-active}"
+            "$value": "{groen.60}"
           },
           "color-subtle": {
             "$type": "color",
-            "$value": "{basis.color.accent-1.color-subtle}"
+            "$value": "{groen.30}"
           },
           "color-document": {
             "$type": "color",
-            "$value": "{basis.color.accent-1.color-document}"
+            "$value": "{groen.70}"
           }
         },
         "disabled": {
@@ -3592,7 +3592,7 @@
         "primary-action": {
           "background-color": {
             "$type": "color",
-            "$value": "{accessible-purple}"
+            "$value": "{basis.color.action-2.bg-default}"
           },
           "border-color": {
             "$type": "color",
@@ -3600,7 +3600,7 @@
           },
           "color": {
             "$type": "color",
-            "$value": "{basis.color.action-1-inverse.color-default}"
+            "$value": "{basis.color.default-inverse.color-document}"
           },
           "font-size": {
             "$type": "fontSizes",
@@ -3617,7 +3617,7 @@
           "active": {
             "background-color": {
               "$type": "color",
-              "$value": "{basis.color.action-1-inverse.bg-active}"
+              "$value": "{basis.color.action-2.bg-active}"
             },
             "border-color": {
               "$type": "color",
@@ -3625,7 +3625,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{basis.color.action-1-inverse.color-active}"
+              "$value": "{basis.color.default-inverse.color-document}"
             }
           },
           "disabled": {
@@ -3659,7 +3659,7 @@
           "hover": {
             "background-color": {
               "$type": "color",
-              "$value": "{basis.color.action-1-inverse.bg-hover}"
+              "$value": "{basis.color.action-2.bg-hover}"
             },
             "border-color": {
               "$type": "color",
@@ -3667,7 +3667,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{basis.color.action-1-inverse.color-hover}"
+              "$value": "{basis.color.default-inverse.color-document}"
             }
           }
         },
@@ -3678,11 +3678,11 @@
           },
           "border-color": {
             "$type": "color",
-            "$value": "{basis.color.action-1.border-default}"
+            "$value": "{basis.color.default-inverse.bg-subtle}"
           },
           "color": {
             "$type": "color",
-            "$value": "{basis.color.action-1.color-default}"
+            "$value": "{basis.color.default-inverse.bg-subtle}"
           },
           "font-size": {
             "$type": "fontSizes",
@@ -3699,15 +3699,15 @@
           "active": {
             "background-color": {
               "$type": "color",
-              "$value": "{basis.color.action-1.bg-active}"
+              "$value": "{basis.color.default.bg-default}"
             },
             "border-color": {
               "$type": "color",
-              "$value": "{basis.color.action-1.border-active}"
+              "$value": "{basis.color.default-inverse.bg-subtle}"
             },
             "color": {
               "$type": "color",
-              "$value": "{basis.color.action-1.color-active}"
+              "$value": "{basis.color.default-inverse.bg-subtle}"
             }
           },
           "disabled": {
