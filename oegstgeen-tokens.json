@@ -1,12 +1,12 @@
 {
   "brand": {
-    "accessible-purple": {
-      "$type": "color",
-      "$value": "#8527C0"
+    "geel": {
+      "10": {
+        "$type": "color",
+        "$value": "#"
+      }
     }
-  }
-
-,
+  },
   "common": {
     "basis": {
       "text": {
