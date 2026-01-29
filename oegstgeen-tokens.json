@@ -1,28 +1,91 @@
 {
   "brand": {
-    "geel.10": { "$type": "color", "$value": "#FEF5D9" },
-    "geel.20": { "$type": "color", "$value": "#FDE599" },
-    "geel.30": { "$type": "color", "$value": "#FCCC33" },
-    "geel.40": { "$type": "color", "$value": "#FBBF00" },
-    "geel.50": { "$type": "color", "$value": "#D5A200" },
-    "geel.60": { "$type": "color", "$value": "#B08600" },
-    "geel.70": { "$type": "color", "$value": "#322600" },
+    "yellow-10": {
+      "$type": "color",
+      "$value": "#FEF5D9"
+    },
+    "yellow-20": {
+      "$type": "color",
+      "$value": "#FDE599"
+    },
+    "yellow-30": {
+      "$type": "color",
+      "$value": "#FCCC33"
+    },
+    "yellow-40": {
+      "$type": "color",
+      "$value": "#FBBF00"
+    },
+    "yellow-50": {
+      "$type": "color",
+      "$value": "#D5A200"
+    },
+    "yellow-60": {
+      "$type": "color",
+      "$value": "#B08600"
+    },
+    "yellow-70": {
+      "$type": "color",
+      "$value": "#322600"
+    },
 
-    "groen.10": { "$type": "color", "$value": "#D9E9E1" },
-    "groen.20": { "$type": "color", "$value": "#9BC3AF" },
-    "groen.30": { "$type": "color", "$value": "#368860" },
-    "groen.40": { "$type": "color", "$value": "#046A38" },
-    "groen.50": { "$type": "color", "$value": "#035A30" },
-    "groen.60": { "$type": "color", "$value": "#034A27" },
-    "groen.70": { "$type": "color", "$value": "#01150B" },
+    "green-10": {
+      "$type": "color",
+      "$value": "#D9E9E1"
+    },
+    "green-20": {
+      "$type": "color",
+      "$value": "#9BC3AF"
+    },
+    "green-30": {
+      "$type": "color",
+      "$value": "#368860"
+    },
+    "green-40": {
+      "$type": "color",
+      "$value": "#046A38"
+    },
+    "green-50": {
+      "$type": "color",
+      "$value": "#035A30"
+    },
+    "green-60": {
+      "$type": "color",
+      "$value": "#034A27"
+    },
+    "green-70": {
+      "$type": "color",
+      "$value": "#01150B"
+    },
 
-    "rood.10": { "$type": "color", "$value": "#FDD9DF" },
-    "rood.20": { "$type": "color", "$value": "#F999AA" },
-    "rood.30": { "$type": "color", "$value": "#F23355" },
-    "rood.40": { "$type": "color", "$value": "#EF002B" },
-    "rood.50": { "$type": "color", "$value": "#CB0025" },
-    "rood.60": { "$type": "color", "$value": "#A7001E" },
-    "rood.70": { "$type": "color", "$value": "#300009" }
+    "red-10": {
+      "$type": "color",
+      "$value": "#FDD9DF"
+    },
+    "red-20": {
+      "$type": "color",
+      "$value": "#F999AA"
+    },
+    "red-30": {
+      "$type": "color",
+      "$value": "#F23355"
+    },
+    "red-40": {
+      "$type": "color",
+      "$value": "#EF002B"
+    },
+    "red-50": {
+      "$type": "color",
+      "$value": "#CB0025"
+    },
+    "red-60": {
+      "$type": "color",
+      "$value": "#A7001E"
+    },
+    "red-70": {
+      "$type": "color",
+      "$value": "#300009"
+    }
   }
 }
 
