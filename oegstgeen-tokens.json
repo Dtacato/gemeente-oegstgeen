@@ -1,12 +1,35 @@
 {
   "brand": {
     "geel": {
-      "10": {
-        "$type": "color",
-        "$value": "#"
-      }
+      "10": { "$type": "color", "$value": "#FEF5D9" },
+      "20": { "$type": "color", "$value": "#FDE599" },
+      "30": { "$type": "color", "$value": "#FCCC33" },
+      "40": { "$type": "color", "$value": "#FBBF00" },
+      "50": { "$type": "color", "$value": "#D5A200" },
+      "60": { "$type": "color", "$value": "#B08600" },
+      "70": { "$type": "color", "$value": "#322600" }
+    },
+    "groen": {
+      "10": { "$type": "color", "$value": "#D9E9E1" },
+      "20": { "$type": "color", "$value": "#9BC3AF" },
+      "30": { "$type": "color", "$value": "#368860" },
+      "40": { "$type": "color", "$value": "#046A38" },
+      "50": { "$type": "color", "$value": "#035A30" },
+      "60": { "$type": "color", "$value": "#034A27" },
+      "70": { "$type": "color", "$value": "#01150B" }
+    },
+    "rood": {
+      "10": { "$type": "color", "$value": "#FDD9DF" },
+      "20": { "$type": "color", "$value": "#F999AA" },
+      "30": { "$type": "color", "$value": "#F23355" },
+      "40": { "$type": "color", "$value": "#EF002B" },
+      "50": { "$type": "color", "$value": "#CB0025" },
+      "60": { "$type": "color", "$value": "#A7001E" },
+      "70": { "$type": "color", "$value": "#300009" }
     }
-  },
+  }
+}
+,
   "common": {
     "basis": {
       "text": {
