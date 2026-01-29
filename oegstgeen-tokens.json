@@ -1,93 +1,10 @@
 {
   "brand": {
-    "yellow-10": {
+    "accessible-purple": {
       "$type": "color",
-      "$value": "#FEF5D9"
-    },
-    "yellow-20": {
-      "$type": "color",
-      "$value": "#FDE599"
-    },
-    "yellow-30": {
-      "$type": "color",
-      "$value": "#FCCC33"
-    },
-    "yellow-40": {
-      "$type": "color",
-      "$value": "#FBBF00"
-    },
-    "yellow-50": {
-      "$type": "color",
-      "$value": "#D5A200"
-    },
-    "yellow-60": {
-      "$type": "color",
-      "$value": "#B08600"
-    },
-    "yellow-70": {
-      "$type": "color",
-      "$value": "#322600"
-    },
-
-    "green-10": {
-      "$type": "color",
-      "$value": "#D9E9E1"
-    },
-    "green-20": {
-      "$type": "color",
-      "$value": "#9BC3AF"
-    },
-    "green-30": {
-      "$type": "color",
-      "$value": "#368860"
-    },
-    "green-40": {
-      "$type": "color",
-      "$value": "#046A38"
-    },
-    "green-50": {
-      "$type": "color",
-      "$value": "#035A30"
-    },
-    "green-60": {
-      "$type": "color",
-      "$value": "#034A27"
-    },
-    "green-70": {
-      "$type": "color",
-      "$value": "#01150B"
-    },
-
-    "red-10": {
-      "$type": "color",
-      "$value": "#FDD9DF"
-    },
-    "red-20": {
-      "$type": "color",
-      "$value": "#F999AA"
-    },
-    "red-30": {
-      "$type": "color",
-      "$value": "#F23355"
-    },
-    "red-40": {
-      "$type": "color",
-      "$value": "#EF002B"
-    },
-    "red-50": {
-      "$type": "color",
-      "$value": "#CB0025"
-    },
-    "red-60": {
-      "$type": "color",
-      "$value": "#A7001E"
-    },
-    "red-70": {
-      "$type": "color",
-      "$value": "#300009"
+      "$value": "#8527C0"
     }
   }
-}
 
 ,
   "common": {
