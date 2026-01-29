@@ -4,10 +4,13 @@
       "10": {
         "$type": "color",
         "$value": "#"
+      },
+      "20": {
+        "$type": "color",
+        "$value": "#"
       }
     }
-  }
-,
+  },
   "common": {
     "basis": {
       "text": {
