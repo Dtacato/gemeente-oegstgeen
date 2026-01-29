@@ -3,35 +3,14 @@
     "geel": {
       "10": {
         "$type": "color",
-        "$value": "#FEF5D9"
+        "$value": "#"
       },
       "20": {
         "$type": "color",
-        "$value": "#FDE599"
-      },
-      "30": {
-        "$type": "color",
-        "$value": "#FCCC33"
-      },
-      "40": {
-        "$type": "color",
-        "$value": "#FBBF00"
-      },
-      "50": {
-        "$type": "color",
-        "$value": "#D5A200"
-      },
-      "60": {
-        "$type": "color",
-        "$value": "#B08600"
-      },
-      "70": {
-        "$type": "color",
-        "$value": "#322600"
+        "$value": "#"
       }
     }
-  }
-},
+  },
   "common": {
     "basis": {
       "text": {
